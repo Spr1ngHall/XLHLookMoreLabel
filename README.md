@@ -1,0 +1,2 @@
+# XLHLookMoreLabel
+类似微信朋友圈的查看更多的label相似。在UILabel后面加上查看更多字样，可以点击查看更多展示全部的文字。
